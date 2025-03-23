@@ -124,3 +124,8 @@ Before contributing, be sure to read [[file:docs/CONTRIBUTING.org][CONTRIBUTING.
 
 * Related projects (No Spacemacs keys)
 - [[https://glimpse.ieni.dev][Glimpse]] - Mnemonic key bindings for VSCode commands
+
+
+sdlfkgkldhsgd
+fdsghskdecenter
+
